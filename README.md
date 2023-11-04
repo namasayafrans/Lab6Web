@@ -1,4 +1,4 @@
-# Lab6web
+# Lab6Web
 
 
 Nama : Frans Putra Sinaga 
